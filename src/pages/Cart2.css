@@ -1,4 +1,4 @@
-/* .cart-items{
+.cart-items{
     justify-content: space-around ;
     margin:  20px auto;
     width: 80%;
@@ -166,4 +166,4 @@
 .cart-checkout:hover{
     color: white;
     background-color: black;
-} */
+}
